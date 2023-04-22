@@ -1,4 +1,16 @@
+
+
 ### Hi there 👋
+
+I'm Blake! I'm a Python and Django developer with experience in using machine learning to build intelligent and efficient web applications. My diverse background in marketing, mathematics, philosophy, business administration, and social work has equipped me with a broad skill set that allows me to connect seemingly disconnected areas of thought.
+
+I prefer coding in an object-oriented manner, which allows me to create modular and reusable code that's easy to maintain and scale. Since transitioning into programming, I've created several web applications, implemented machine learning algorithms, and contributed to open-source projects. I'm a self-starter and always looking for new challenges and opportunities to learn and grow.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+
+If you're looking for a skilled and collaborative Python and Django developer, I'd love to chat. Together, we can build something amazing that solves real-world problems and makes a difference in people's lives.
 
 <!--
 **blakedaniel/blakedaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
