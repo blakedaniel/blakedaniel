@@ -8,25 +8,10 @@
 
 I'm Blake! I'm a backend Python and Django developer and Data Engineer with experience in using machine learning to build intelligent and efficient web applications. My diverse background in marketing, mathematics, philosophy and programming helps me connect seemingly disconnected dots, keep user needs at the forefront of my mind, and create solutions that are both elegant and practical.
 
-I osilate between Object-Oriented and Functional programming paradigms depending project needs. I'm enjoying Fluent Python by Luciano Ramalho and am eager to to dive into other languages like Go and Rust. Since transitioning into programming, I've created several web applications, implemented machine learning algorithms, and contributed to open-source projects. I'm a self-starter and always looking for new challenges and opportunities to learn and grow.
+I osilate between Object-Oriented and Functional programming paradigms depending project needs. I'm enjoying Fluent Python by Luciano Ramalho and am eager to to dive into other languages like Go and Rust. Since transitioning into programming through the [Recurse Center](https://www.recurse.com), I've created several web applications, implemented machine learning algorithms, and contributed to open-source projects. I'm a self-starter and always looking for new challenges and opportunities to learn and grow.
 
 - 🔭 I’m currently working on a [vaccine data research project](https://github.com/datatoolsrc2023/vaccine_data) using dagster, docker and BigQuery.
 - 🌱 I’m currently learning Prefect, Terraform, and bike maintenance.
 - 👯 I’m looking to collaborate on open-source projects that make a difference in people's lives.
 
 If you're looking for a skilled and collaborative backend and data engineer, I'd love to chat. :)
-
-<!--
-**blakedaniel/blakedaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
