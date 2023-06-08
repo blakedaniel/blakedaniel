@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Blake! I'm a Python and Django developer with experience in using machine learning to build intelligent and efficient web applications. My diverse background in marketing, mathematics, philosophy, business administration, and social work has equipped me with a broad skill set that allows me to connect seemingly disconnected areas of thought.
+I'm Blake! I'm a backend Python and Django developer and Data Engineer with experience in using machine learning to build intelligent and efficient web applications. My diverse background in marketing, mathematics and philosophy has equipped me with a broad skill set that allows me to connect seemingly disconnected dots.
 
 I prefer coding in an object-oriented manner, which allows me to create modular and reusable code that's easy to maintain and scale. Since transitioning into programming, I've created several web applications, implemented machine learning algorithms, and contributed to open-source projects. I'm a self-starter and always looking for new challenges and opportunities to learn and grow.
 
