@@ -10,7 +10,7 @@ I'm Blake! I'm a backend Python and Django developer and Data Engineer with expe
 
 I'm enjoying Fluent Python by Luciano Ramalho and am eager to to dive into other languages like Go and Rust. Since transitioning into programming through the [Recurse Center](https://www.recurse.com), I've created several web applications, implemented machine learning algorithms, and contributed to open-source projects. I'm a self-starter and always looking for new challenges and opportunities to learn and grow.
 
-- 🔭 I’m currently working on a toy Daycare application!
+- 🔭 I’m currently working on an open-source daycare application!
 - 🌱 I’m currently learning Nextjs.
 - 👯 I’m looking to collaborate on open-source projects that make a difference in people's lives.
 
